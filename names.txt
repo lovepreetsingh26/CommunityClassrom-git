@@ -1,0 +1,6 @@
+git init to create a init in the github
+git status to check status of file
+git commit -m"type msg her"
+to exit vim come to normal mode and press ZZ
+to restore the changes in init use git restore --staged "filename"
+
